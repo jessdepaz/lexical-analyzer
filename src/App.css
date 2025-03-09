@@ -3,7 +3,6 @@ html, body {
   margin: 0;
   padding: 0;
   height: 100%;
-  overflow: hidden; /* Prevent scrolling */
   font-family: Arial, sans-serif;
   background-color: #f0f0f0;
 }
